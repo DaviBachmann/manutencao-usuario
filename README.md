@@ -1,4 +1,4 @@
-# manutencao-usuarios
+# 👥 manutencao-usuarios
 
 Sistema automatizado em Python para **criação e desativação padronizada de usuários administradores** nas bases da empresa.
 
@@ -23,7 +23,7 @@ A solução contribui diretamente para:
 
 ---
 
-💡 Resenha do Projeto
+##💡 Resenha do Projeto
 
 Desenvolvimento de uma aplicação em Python para padronizar e automatizar o processo de criação e desativação de usuários administradores nas bases da empresa. 
 
